@@ -13,7 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
-	public String sayHunter(){
+	public String sayHunterNew(){
 		return "I do my teamcity homework and I really like it. hunter";
 	}
 }
