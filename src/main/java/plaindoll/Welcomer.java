@@ -13,7 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
-	public String saySome(){
-		return "Homework in netology is a disgrace. I would not recommend anyone to study here. hunter";
+	public String sayHunter(){
+		return "I do my teamcity homework and I really like it. hunter";
 	}
 }
